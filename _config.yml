@@ -1,0 +1,18 @@
+title: News Mana
+description: News Mana iOSアプリの公式ページ（プライバシーポリシー）
+lang: ja
+theme: jekyll-theme-minimal
+
+# GitHub Pages 設定
+url: "https://nyuto-free.github.io"
+baseurl: "/news-mana-pages"
+
+# 著者情報
+author: 中西 悠人
+
+# 不要なファイルをビルド対象から除外
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
