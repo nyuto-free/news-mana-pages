@@ -3,9 +3,9 @@ description: News Mana iOSアプリの公式ページ（プライバシーポリ
 lang: ja
 theme: jekyll-theme-minimal
 
-# GitHub Pages 設定
-url: "https://nyuto-free.github.io"
-baseurl: "/news-mana-pages"
+# GitHub Pages 設定（カスタムドメイン）
+url: "https://newsmana.mana-app.studio"
+baseurl: ""
 
 # 著者情報
 author: 中西 悠人

@@ -2,8 +2,8 @@
 
 iOSアプリ **News Mana** の公式ページ（プライバシーポリシー等）。
 
-GitHub Pages で配信しています:
-https://nyuto-free.github.io/news-mana-pages/
+GitHub Pages（カスタムドメイン）で配信しています:
+https://newsmana.mana-app.studio/
 
 ## 構成
 
@@ -11,13 +11,14 @@ https://nyuto-free.github.io/news-mana-pages/
 | --- | --- |
 | `index.md` | プライバシーポリシー（トップページ） |
 | `_config.yml` | Jekyll サイト設定 |
+| `CNAME` | GitHub Pages のカスタムドメイン指定 |
 
 ## ローカルでプレビュー（任意）
 
 ```bash
 bundle install
 bundle exec jekyll serve
-# → http://127.0.0.1:4000/news-mana-pages/
+# → http://127.0.0.1:4000/
 ```
 
 `Gemfile` がない場合は以下で初期化:
